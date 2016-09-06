@@ -1,0 +1,8 @@
+attack speed test - speed up to 75% usage
+attack read Servers only once - test it - fail=delete -> get ampFactor
+attack -b (specify send KB/s) [replaces --quality and --risk and --thread]
+client server - interactive?
+pyc
+spoofing - vps
+website - django
+
